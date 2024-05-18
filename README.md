@@ -17,3 +17,12 @@ To simplify the song collection while still compiling the most data possible, on
   * poems, voice memos, prologues, forewords, messages from artists, etc.
 * Songs on which the artist is featured and songs the artist wrote for other artists.
 * Covers and unreleased songs
+
+# Files
+* **genius_lyrics_collection** folder
+  * Python code to extract lyrics of Swift’s songs from Genius API
+  * 15 folders organized by album containing the song lyrics for each song as a .txt file
+  * .csv file of every song containing data of the album, song name, and lyrics
+* **p1_lyric_analysis** folder
+  * Python code to perform word analysis
+  * Python code to perform sentiment analysis
