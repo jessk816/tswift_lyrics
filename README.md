@@ -26,3 +26,9 @@ To simplify the song collection while still compiling the most data possible, on
 * **p1_lyric_analysis** folder
   * Python code to perform word analysis
   * Python code to perform sentiment analysis
+  * **graphs** folder
+    * **word_analysis** folder
+      * containing graphs creating during the word analysis
+    * **sentiment_analysis** folder
+      * containing graphs creating during the sentiment analysis
+    
