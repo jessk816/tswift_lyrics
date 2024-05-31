@@ -4,11 +4,12 @@ For the full project report please see my website portfolio:
 <https://www.jessicakreinsen.com/tswift-p1>
 
 # Rules for Song Collection
-To simplify the song collection while still compiling the most data possible, only certain songs from certain albums are included.
+Only certain songs from certain albums are included to simplify the song collection while still compiling the most data possible.
 ### Full studio albums are included.
 * If there exists a deluxe edition, that is included instead of the standard edition.
 * If multiple deluxe editions exist, the edition with the highest number of different songs is chosen.
-* If the album was re-released as a Taylor’s Version* edition, only vault songs are included.
+* If the album was re-released as a Taylor’s Version* edition:
+  * The original version is used; only vault songs from Taylor's Version are included.
 ### The following are NOT included:
 * Songs that would cause duplicate lyrics:
   * remixes, acoustic, piano, live, or original demo versions
