@@ -1,4 +1,7 @@
-This project aims to quantify and visualize the lyrics of Taylor Swift's discography over the years to analyze the change in word choices using Genius API to download the artist’s entire discography, following the rules listed below. The lyrics are analyzed with pandas and NLTK, and visualized using WordClouds, matplotlib, and Plotly.
+This project aims to quantify and visualize the lyrics of Taylor Swift's discography over the years to analyze the change in word choices using Genius API to download the artist’s entire discography, following the rules listed below. 
+
+For the full project report please see my website portfolio:
+<https://www.jessicakreinsen.com/tswift-p1>
 
 # Rules for Song Collection
 To simplify the song collection while still compiling the most data possible, only certain songs from certain albums are included.
@@ -26,6 +29,7 @@ To simplify the song collection while still compiling the most data possible, on
 * **p1_lyric_analysis** folder
   * Python code to perform word analysis
   * Python code to perform sentiment analysis
+  * .csv file containing the clean, tokeninzed, and lemmatized lyrics
   * **graphs** folder
     * **word_analysis** folder
       * containing graphs creating during the word analysis
