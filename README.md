@@ -36,4 +36,6 @@ Only certain songs from certain albums are included to simplify the song collect
       * containing graphs creating during the word analysis
     * **sentiment_analysis** folder
       * containing graphs creating during the sentiment analysis
+* **p2_prediction_analysis** folder
+  * Python code to train a model and to predict the next word
     
